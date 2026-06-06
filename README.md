@@ -62,7 +62,7 @@ travel-explorer/
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/travel-explorer.git
+gh repo clone Vikashsingh845274/Tour_and_Travel
 ```
 
 2. Navigate to the project directory:
