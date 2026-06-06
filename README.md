@@ -17,7 +17,7 @@ Travel Explorer is a modern travel website that helps users discover destination
 Add your live website link here:
 
 ```text
-https://your-website-url.com
+https://github.com/Vikashsingh845274
 ```
 
 ## 📸 Screenshots
@@ -133,9 +133,8 @@ This project is licensed under the MIT License.
 
 Your Name
 
-GitHub: https://github.com/yourusername
-
-Email: your.email@example.com
+GitHub: https://github.com/Vikashsingh845274
+Email: vikash.singh84258@gmail.com
 
 ---
 
